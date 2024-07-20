@@ -1,5 +1,3 @@
-
-```markdown
 # Plant Focus App
 
 A React application designed to help you manage your time and stay productive.
@@ -12,7 +10,7 @@ A React application designed to help you manage your time and stay productive.
 
 ## Project Structure
 
-
+```
 focus-app/
 ├── public/
 │   └── index.html
@@ -35,7 +33,7 @@ focus-app/
 │   ├── App.js
 │   ├── index.js
 └── package.json
-
+```
 
 ## Getting Started
 
